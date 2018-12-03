@@ -1,0 +1,15 @@
+{
+  "name": "React-CRUD",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
